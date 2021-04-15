@@ -25,10 +25,10 @@
     "static/js/11.0b48711c.chunk.js": "/NKmockupv2.0/static/js/11.0b48711c.chunk.js",
     "static/js/11.0b48711c.chunk.js.map": "/NKmockupv2.0/static/js/11.0b48711c.chunk.js.map",
     "main.css": "/NKmockupv2.0/static/css/main.273d7630.chunk.css",
-    "main.js": "/NKmockupv2.0/static/js/main.54980ebd.chunk.js",
-    "main.js.map": "/NKmockupv2.0/static/js/main.54980ebd.chunk.js.map",
-    "runtime-main.js": "/NKmockupv2.0/static/js/runtime-main.96a684e7.js",
-    "runtime-main.js.map": "/NKmockupv2.0/static/js/runtime-main.96a684e7.js.map",
+    "main.js": "/NKmockupv2.0/static/js/main.3abad893.chunk.js",
+    "main.js.map": "/NKmockupv2.0/static/js/main.3abad893.chunk.js.map",
+    "runtime-main.js": "/NKmockupv2.0/static/js/runtime-main.a1bc6cc9.js",
+    "runtime-main.js.map": "/NKmockupv2.0/static/js/runtime-main.a1bc6cc9.js.map",
     "static/css/14.08e50d78.chunk.css": "/NKmockupv2.0/static/css/14.08e50d78.chunk.css",
     "static/js/14.e13f62d3.chunk.js": "/NKmockupv2.0/static/js/14.e13f62d3.chunk.js",
     "static/js/14.e13f62d3.chunk.js.map": "/NKmockupv2.0/static/js/14.e13f62d3.chunk.js.map",
@@ -41,8 +41,8 @@
     "static/js/17.4854cc3b.chunk.js.map": "/NKmockupv2.0/static/js/17.4854cc3b.chunk.js.map",
     "static/js/18.29eec7b3.chunk.js": "/NKmockupv2.0/static/js/18.29eec7b3.chunk.js",
     "static/js/18.29eec7b3.chunk.js.map": "/NKmockupv2.0/static/js/18.29eec7b3.chunk.js.map",
-    "static/js/19.f70f78b2.chunk.js": "/NKmockupv2.0/static/js/19.f70f78b2.chunk.js",
-    "static/js/19.f70f78b2.chunk.js.map": "/NKmockupv2.0/static/js/19.f70f78b2.chunk.js.map",
+    "static/js/19.d69a1f69.chunk.js": "/NKmockupv2.0/static/js/19.d69a1f69.chunk.js",
+    "static/js/19.d69a1f69.chunk.js.map": "/NKmockupv2.0/static/js/19.d69a1f69.chunk.js.map",
     "static/css/20.b26df3bb.chunk.css": "/NKmockupv2.0/static/css/20.b26df3bb.chunk.css",
     "static/js/20.7a5a403b.chunk.js": "/NKmockupv2.0/static/js/20.7a5a403b.chunk.js",
     "static/js/20.7a5a403b.chunk.js.map": "/NKmockupv2.0/static/js/20.7a5a403b.chunk.js.map",
@@ -164,7 +164,7 @@
     "static/js/77.c285b582.chunk.js": "/NKmockupv2.0/static/js/77.c285b582.chunk.js",
     "static/js/77.c285b582.chunk.js.map": "/NKmockupv2.0/static/js/77.c285b582.chunk.js.map",
     "index.html": "/NKmockupv2.0/index.html",
-    "precache-manifest.ad112e21ff466c134fb1dfe7fb97210d.js": "/NKmockupv2.0/precache-manifest.ad112e21ff466c134fb1dfe7fb97210d.js",
+    "precache-manifest.c6b19d6923bd6cad9085eac7e656d649.js": "/NKmockupv2.0/precache-manifest.c6b19d6923bd6cad9085eac7e656d649.js",
     "service-worker.js": "/NKmockupv2.0/service-worker.js",
     "static/css/14.08e50d78.chunk.css.map": "/NKmockupv2.0/static/css/14.08e50d78.chunk.css.map",
     "static/css/15.b26df3bb.chunk.css.map": "/NKmockupv2.0/static/css/15.b26df3bb.chunk.css.map",
@@ -220,10 +220,10 @@
     "static/media/validasidmd.7c765078.svg": "/NKmockupv2.0/static/media/validasidmd.7c765078.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.96a684e7.js",
+    "static/js/runtime-main.a1bc6cc9.js",
     "static/css/14.08e50d78.chunk.css",
     "static/js/14.e13f62d3.chunk.js",
     "static/css/main.273d7630.chunk.css",
-    "static/js/main.54980ebd.chunk.js"
+    "static/js/main.3abad893.chunk.js"
   ]
 }
